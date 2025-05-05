@@ -1,0 +1,16 @@
+streamlit
+pandas
+pyodbc
+sqlalchemy
+streamlit-mic-recorder
+python-dotenv
+torch
+transformers
+langchain
+langchain-core
+langchain-community
+langchain-groq
+gtts
+deep-translator
+langdetect
+groq
